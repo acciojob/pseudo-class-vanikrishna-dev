@@ -10,7 +10,7 @@ div::before{
 }
 
 div::after{
-	content: "After Element ";
+	content: "After Element";
 	color: #f00;
 	font-size: 20px;
 }
